@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Tangerine:wght@700&display=swap');
 
 body {
-  margin: 0;
-  font-family: 'Montserrat', sans-serif;
-  color: #102C57;
-  background-color: #F8F0E5;
+    font-family: 'Montserrat', sans-serif;
+    color: #102C57;
+    background-color: #F8F0E5;
 }
