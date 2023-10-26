@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Projeto de Prática para Estudos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo, esse é um projeto pessoal e prática para estudos! 👋 Este é um espaço descontraído onde compartilhamos o que aprendemos ao longo do projeto. Vamos dar uma olhada nos principais pontos e tecnologias que utilizamos.
 
-## Available Scripts
+## 📚 Pontos Aprendidos
 
-In the project directory, you can run:
+Durante este projeto, aprendemos muitos conceitos e habilidades valiosos. Aqui estão alguns dos destaques:
 
-### `npm start`
+- Utilização do React para criar uma aplicação web.
+- Gerenciamento de rotas com o `react-router-dom`.
+- Consumo de uma API utilizando o Axios.
+- Criação de componentes funcionais em React.
+- Utilização do React-Data-Table-Component para exibição de dados tabulares.
+- Formatação de valores monetários.
+- Uso de interfaces em TypeScript para tipagem.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Tecnologias Principais
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Aqui estão as principais tecnologias que utilizamos no projeto:
 
-### `npm test`
+- **React**: Utilizamos o React como nossa biblioteca de desenvolvimento front-end.
+- **React Router Dom**: Para gerenciamento de rotas na aplicação.
+- **Axios**: Para fazer requisições HTTP à nossa API.
+- **React-Data-Table-Component**: Usado para exibir tabelas de dados de forma elegante.
+- **TypeScript**: Utilizamos TypeScript para adicionar tipagem estática ao nosso código.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Prática para Estudos
 
-### `npm run build`
+Este projeto foi desenvolvido como parte de meus estudos. Ele me permitiu aplicar e aprimorar minhas habilidades de desenvolvimento web, desde a criação de componentes React até o consumo de uma API e exibição de dados. Continuaremos aprimorando nossos conhecimentos e expandindo este projeto à medida que avançamos em nossos estudos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Sinta-se à vontade para explorar o código-fonte do projeto e fazer melhorias ou compartilhar feedback. Esperamos que você também tenha a oportunidade de aprender e se divertir enquanto trabalha em seus próprios projetos de prática!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Lembre-se de que o README é apenas um resumo. Se você quiser ver o código completo, dê uma olhada no nosso repositório. 😊
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Divirta-se codificando! 🚀👩‍💻👨‍💻
